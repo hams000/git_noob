@@ -1,0 +1,11 @@
+git init#empty repo initialize
+git add .#add all files
+git commit -m "first commit"#commit with message
+git log # see commit history
+git checkout hashvalue # view previous git commits
+git add <filename> # single file commit
+git checkout main #current
+git config --global user.name 'name'
+git config --global user.email 'email'
+git config --global init.defaultbranch main or git branch -M main
+
