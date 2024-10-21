@@ -1,0 +1,9 @@
+general workflow: 
+ i.clone repo
+ ii.create branch from main or other branch
+ iii.make chnages
+ iv.push branch to remote repo
+ v.open pull request
+ vi.merge the chnages
+ vii.pull merged changes into local main
+ viii.repeat from step ii
